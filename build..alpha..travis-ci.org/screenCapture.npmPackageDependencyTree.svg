@@ -1,0 +1,19 @@
+<svg height="254" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="254" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">4 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ rolling-spider@1.7.0 </tspan>
+<tspan x="10" y="90">  ├─┬ debug@2.6.3 </tspan>
+<tspan x="10" y="106">  │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="122">  ├── keypress@0.2.1 </tspan>
+<tspan x="10" y="138">  ├── lodash@3.9.3 </tspan>
+<tspan x="10" y="154">  └─┬ noble@1.8.1 </tspan>
+<tspan x="10" y="170">    ├─┬ bluetooth-hci-socket@0.5.1 </tspan>
+<tspan x="10" y="186">    │ └── nan@2.6.2 </tspan>
+<tspan x="10" y="202">    ├── bplist-parser@0.0.6 </tspan>
+<tspan x="10" y="218">    └─┬ debug@2.2.0 </tspan>
+<tspan x="10" y="234">      └── ms@0.7.1</tspan>
+</text>
+</svg>
