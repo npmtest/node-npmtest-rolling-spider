@@ -5,8 +5,8 @@
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">└─┬ rolling-spider@1.7.0 </tspan>
-<tspan x="10" y="90">  ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="106">  │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="90">  ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="106">  │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="122">  ├── keypress@0.2.1 </tspan>
 <tspan x="10" y="138">  ├── lodash@3.9.3 </tspan>
 <tspan x="10" y="154">  └─┬ noble@1.8.1 </tspan>
