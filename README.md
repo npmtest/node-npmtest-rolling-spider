@@ -1,6 +1,6 @@
 # npmtest-rolling-spider
 
-#### test coverage for  [rolling-spider (v1.7.0)](https://github.com/voodootikigod/node-rolling-spider#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-rolling-spider.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rolling-spider) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rolling-spider.svg)](https://travis-ci.org/npmtest/node-npmtest-rolling-spider)
+#### basic test coverage for  [rolling-spider (v1.7.0)](https://github.com/voodootikigod/node-rolling-spider#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-rolling-spider.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rolling-spider) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rolling-spider.svg)](https://travis-ci.org/npmtest/node-npmtest-rolling-spider)
 
 #### A library for sending BLE commands to a Parrot Rolling Spider drone
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-rolling-spider/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-rolling-spider/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-rolling-spider/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-rolling-spider/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-rolling-spider/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-rolling-spider/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-rolling-spider/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-rolling-spider/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-rolling-spider/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-rolling-spider/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-rolling-spider/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-rolling-spider/build/coverage.html/index.html)
 
@@ -105,7 +105,8 @@
         "lint": "eslint . --ext .js",
         "test": "mocha"
     },
-    "version": "1.7.0"
+    "version": "1.7.0",
+    "bin": {}
 }
 ```
 
